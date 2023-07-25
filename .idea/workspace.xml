@@ -6,14 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cf9baf95-55cd-4553-94e0-ae95e46d5c85" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/1/fingerprint.pb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/1/keras_metadata.pb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/1/saved_model.pb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/1/variables/variables.data-00000-of-00001" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/1/variables/variables.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainning.py" beforeDir="false" afterPath="$PROJECT_DIR$/trainning.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spacefile" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
